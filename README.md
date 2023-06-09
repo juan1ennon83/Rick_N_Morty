@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+PROYECTO API DE RICK AND MORTY DE JUAN SALVA - COHORTE 38B HENRY
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
